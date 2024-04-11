@@ -1,0 +1,35 @@
+/* Coolors Exported Palette - https://coolors.co/0192df-b0228c-ea3788-e56b70-f391a0 */
+
+- Tailwind
+
+{ 'celestial_blue': { DEFAULT: '#0192df', 100: '#001d2d', 200: '#003a59', 300: '#015786', 400: '#0174b3', 500: '#0192df', 600: '#1caffe', 700: '#54c3fe', 800: '#8dd7fe', 900: '#c6ebff' }, 'fandango': { DEFAULT: '#b0228c', 100: '#23071c', 200: '#460d38', 300: '#691454', 400: '#8d1b70', 500: '#b0228c', 600: '#d835b0', 700: '#e267c3', 800: '#ec9ad7', 900: '#f5cceb' }, 'magenta': { DEFAULT: '#ea3788', 100: '#35061b', 200: '#690b35', 300: '#9e1150', 400: '#d2166b', 500: '#ea3788', 600: '#ee60a0', 700: '#f288b8', 800: '#f7b0d0', 900: '#fbd7e7' }, 'light_coral': { DEFAULT: '#e56b70', 100: '#390a0c', 200: '#721417', 300: '#ac1e23', 400: '#db3238', 500: '#e56b70', 600: '#ea898c', 700: '#efa7a9', 800: '#f5c4c6', 900: '#fae2e2' }, 'salmon_pink': { DEFAULT: '#f391a0', 100: '#460811', 200: '#8c1022', 300: '#d11733', 400: '#eb4b63', 500: '#f391a0', 600: '#f5a7b3', 700: '#f8bdc6', 800: '#fad3d9', 900: '#fde9ec' } }
+
+- CSV
+
+0192df,b0228c,ea3788,e56b70,f391a0
+
+- With #
+
+#0192df, #b0228c, #ea3788, #e56b70, #f391a0
+
+- Array
+
+["0192df","b0228c","ea3788","e56b70","f391a0"]
+
+- Object
+
+{"Celestial Blue":"0192df","Fandango":"b0228c","Magenta":"ea3788","Light coral":"e56b70","Salmon pink":"f391a0"}
+
+- Extended Array
+
+[{"name":"Celestial Blue","hex":"0192df","rgb":[1,146,223],"cmyk":[100,35,0,13],"hsb":[201,100,87],"hsl":[201,99,44],"lab":[58,-4,-48]},{"name":"Fandango","hex":"b0228c","rgb":[176,34,140],"cmyk":[0,81,20,31],"hsb":[315,81,69],"hsl":[315,68,41],"lab":[42,64,-25]},{"name":"Magenta","hex":"ea3788","rgb":[234,55,136],"cmyk":[0,76,42,8],"hsb":[333,76,92],"hsl":[333,81,57],"lab":[54,72,-2]},{"name":"Light coral","hex":"e56b70","rgb":[229,107,112],"cmyk":[0,53,51,10],"hsb":[358,53,90],"hsl":[358,70,66],"lab":[60,48,20]},{"name":"Salmon pink","hex":"f391a0","rgb":[243,145,160],"cmyk":[0,40,34,5],"hsb":[351,40,95],"hsl":[351,80,76],"lab":[71,39,8]}]
+
+- XML
+
+<palette>
+  <color name="Celestial Blue" hex="0192df" r="1" g="146" b="223" />
+  <color name="Fandango" hex="b0228c" r="176" g="34" b="140" />
+  <color name="Magenta" hex="ea3788" r="234" g="55" b="136" />
+  <color name="Light coral" hex="e56b70" r="229" g="107" b="112" />
+  <color name="Salmon pink" hex="f391a0" r="243" g="145" b="160" />
+</palette>
