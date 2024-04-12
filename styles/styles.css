@@ -35,7 +35,8 @@ aside{
     /* padding: 1rem; */
     /* background-color: #eee; */
     /* color: #333; */
-    text-align: center;    
+    text-align: center;  
+    position: relative;  
 }
 aside img{
     width: 200px;
@@ -56,4 +57,8 @@ footer{
 }
 main img{
     float: right;
+}
+aside h2{
+    position: absolute;
+    left: 60px;
 }
